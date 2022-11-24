@@ -29,3 +29,6 @@ https://www.overleaf.com/7756298949dpmbyrmztspw
 I think section 1 is pretty standard and will work in our format. 
 
 I'm not sure what we should do with Sections 2 and 3. Maybe for Section 2 we can have "Mathematical Applications" to explain what we did and for Section 3 we can have "Results" of our applications? 
+
+
+From lecture, we should aim for 5-6 pages
