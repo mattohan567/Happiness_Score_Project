@@ -22,6 +22,7 @@ Compare principal components to degree to optimized clusters
 
 
 _______
+Presentation: https://docs.google.com/presentation/d/1MyEFMSUzIGLo8kAumt0ddUSUA5ZxSLN1/edit?usp=sharing&ouid=116624974861941672362&rtpof=true&sd=true
 
 Link to edit the final write up
 https://www.overleaf.com/7756298949dpmbyrmztspw
